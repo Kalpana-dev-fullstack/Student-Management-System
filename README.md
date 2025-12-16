@@ -1,22 +1,31 @@
-# Student-Management-System
+## Student Management System
 
-## Description
-A Java-based application developed to manage student records efficiently using database connectivity.
+### Description
+A Java-based application to manage student records using object-oriented programming and DAO design pattern.
 
-## Technologies Used
-- Java
-- JDBC
-- SQL
-- HTML
-- CSS
-
-## Features
+### Features
 - Add student details
-- Update student information
+- View student records
 - Delete student records
-- View all students
+- Database schema designed using SQL
 
-## How to Run
-1. Install Java (JDK)
-2. Configure SQL database
-3. Run the Java application
+### Technologies Used
+- Java
+- JDBC (Basic understanding)
+- SQL
+- GitHub
+
+### Project Structure
+- Main.java – Application entry point
+- Student.java – Student model class
+- StudentDAO.java – Data access logic
+- database.sql – Database schema
+
+### How to Run
+1. Clone the repository
+2. Compile Java files
+3. Run Main.java
+
+### Author
+Kalpana (B.Tech CSE, 2022)
+
